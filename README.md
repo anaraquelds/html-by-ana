@@ -83,7 +83,7 @@
   </div>
 
   <footer>
-    Criado por [Seu Nome] - 2025
+    Criado por Ana Raquel - 2025
   </footer>
 </body>
 </html>
